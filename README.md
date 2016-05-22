@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/antradford/hivemind2016.png?label=ready&title=Ready)](https://waffle.io/antradford/hivemind2016)
 # README FILE FOR HIVEMIND2016 REPOSITORY
 
 This repository is to be used for ALL development projects that come under the banner
